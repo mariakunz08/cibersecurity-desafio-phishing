@@ -2,6 +2,7 @@
 
 ### Ferramentas
 
+- Máquina virtual (virtualbox)
 - Kali Linux
 - setoolkit
 
@@ -16,6 +17,10 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+Caso aparece alguns erros, verifique:
+- PHP está instalado, verifique com php -v a versão
+- Apacche2 está instalado?
+- Os pacotes estão atualizados? Entre com sudo apt-get update
+  
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
